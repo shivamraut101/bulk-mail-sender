@@ -1,0 +1,102 @@
+# Dependency directories
+node_modules/
+vendor/
+.venv/
+env/
+.terraform/
+
+# Build directories
+dist/
+build/
+target/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Log files
+*.log
+logs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor-specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.pid
+*.seed
+*.coverage
+*.sqlite
+
+# Python-specific files (if applicable)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+
+# Java-specific files (if applicable)
+*.class
+*.jar
+*.war
+*.ear
+*.db
+
+# Ruby-specific files (if applicable)
+*.gem
+*.rbc
+.yardoc
+coverage/
+installed_gems/
+*.gem
+
+# Go-specific files (if applicable)
+bin/
+*.test
+
+# Rust-specific files (if applicable)
+target/
+
+# Docker-specific files (if applicable)
+*.dockerignore
+
+# Miscellaneous
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
+
+# API keys or secrets
+*.key
+*.pem
+*.crt
+
+# Database files
+*.db
+*.sql
+*.sqlite
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Build artifacts
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
